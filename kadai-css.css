@@ -9,6 +9,7 @@ header{
 /* mainとmenuを２カラムにする*/
 #wrapper{
     display: flex;
+    width: 1000px;  /* 修正 */
 }
 
 /* mainの色、幅の指定*/
